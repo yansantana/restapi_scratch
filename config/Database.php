@@ -3,7 +3,7 @@
 		//DB Params
 
 		private $host = 'localhost';
-		private $db_name = 'rest';
+		private $db_name = 'vrest';
 		private $username = 'root';
 		private $password = '';
 		private $conn;
